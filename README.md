@@ -3,4 +3,4 @@
 - ☎ +351 969258237
 - ✅ My linkedin: https://www.linkedin.com/in/msp99/
 - 💬 Ask me about anything at msantospereira1999@gmail.com
-- 🏛 Right now im working on a migration from on-premises to cloud for a major portuguese brand with Microsft Azure Stack
+- 🏛 Right now im working on a migration from on-premises architeture to cloud for a major portuguese brand with Microsft Azure Stack
